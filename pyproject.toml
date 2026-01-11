@@ -1,0 +1,11 @@
+[project]
+name = "rnmp-homework3"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "kafka-python>=2.3.0",
+    "numpy>=1.24.4",
+    "pandas>=2.0.3",
+    "pyspark>=3.5.7",
+]
